@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/medicare.css: {}
+  js:
+    js/medicare.js: {}
